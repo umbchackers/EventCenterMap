@@ -918,14 +918,20 @@ button:focus {
 .pin--1-12 { top: 57vmin; left: 35vmin; }
 .pin--1-13 { top: 44vmin; left: 43vmin; }
 
+/* Pins for floor 2 */
+.pin--2-1 { top: 61vmin; left: 63vmin; }
+.pin--2-2 { top: 62vmin; left: 50vmin; }
+.pin--2-3 { top: 62vmin; left: 40vmin; }
+.pin--2-4 { top: 62vmin; left: 32vmin; }
+
 /* Pins for floor 3 */
-.pin--3-1 { top: 17vmin; left: 15vmin; }
-.pin--3-2 { top: 42vmin; left: 5vmin; }
-.pin--3-3 { top: 19vmin; left: 85vmin; }
-.pin--3-4 { top: 61vmin; left: 57vmin; }
-.pin--3-5 { top: 58vmin; left: 25vmin; }
-.pin--3-6 { top: 30vmin; left: 57vmin; }
-.pin--3-7 { top: 32vmin; left: 37vmin; }
+.pin--3-1 { top: 58vmin; left: 75vmin; }
+.pin--3-2 { top: 61vmin; left: 70vmin; }
+.pin--3-3 { top: 55vmin; left: 70vmin; }
+.pin--3-4 { top: 61vmin; left: 67vmin; }
+.pin--3-5 { top: 59vmin; left: 65vmin; }
+.pin--3-6 { top: 53vmin; left: 63vmin; }
+.pin--3-7 { top: 60vmin; left: 60vmin; }
 
 /* Pins for floor 4 */
 .pin--4-1 { top: 55vmin; left: 21vmin; }
