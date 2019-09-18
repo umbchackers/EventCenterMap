@@ -932,6 +932,9 @@ button:focus {
 .pin--3-5 { top: 59vmin; left: 65vmin; }
 .pin--3-6 { top: 53vmin; left: 63vmin; }
 .pin--3-7 { top: 60vmin; left: 60vmin; }
+.pin--3-8 { top: 54vmin; left: 62vmin; }
+.pin--3-9 { top: 64vmin; left: 60vmin; }
+.pin--3-10 { top: 51vmin; left: 77vmin; }
 
 /* Pins for floor 4 */
 .pin--4-1 { top: 55vmin; left: 21vmin; }
